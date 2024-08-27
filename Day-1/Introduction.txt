@@ -1,0 +1,7 @@
+What is TypeScript?
+TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. It adds static types to JavaScript, allowing developers to catch errors early during the development process. TypeScript supports modern JavaScript features and provides powerful tools for large-scale JavaScript applications.
+
+Why Use TypeScript?
+Static Typing: Helps in catching errors at compile time rather than runtime.
+Improved Tooling: Offers better autocompletion, navigation, and refactoring in IDEs
+Enhanced Code Quality: Makes code more readable and maintainable, especially in large projects.
