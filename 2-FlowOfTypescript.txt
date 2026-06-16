@@ -1,0 +1,6 @@
+lexer -> tokenize the code
+parser -> it will preprase abstract syntax tree(AST) 
+ binder -> symbol tables, parent pointer, flow nodes
+ Checker -> syntax check
+ Emitter- generate files ( which compatable to make while converting typescript -> javascript)
+ .js file generated
